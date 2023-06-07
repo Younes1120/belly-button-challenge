@@ -4,7 +4,7 @@ This project is an interactive dashboard that allows users to explore the Belly 
 
 ## Link
 
-Access the deployed dashboard [here](Deployed dashboard.png).
+Access the deployed dashboard [here]([Deployed dashboard.png](https://github.com/Younes1120/belly-button-challenge/blob/main/Deployed%20dashboard.png)).
 
 ## Overview
 
