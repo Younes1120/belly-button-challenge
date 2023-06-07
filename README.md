@@ -43,14 +43,5 @@ To complete the D3 Dashboard (Belly Button Biodiversity) challenge, you need to 
 5. Update all the plots when a new sample is selected.
 6. Deploy the app to a free static page hosting service like GitHub Pages.
 
-## Instructions
 
-1. Clone or download the source code for the D3 Dashboard (Belly Button Biodiversity) challenge.
-2. Open the project in your preferred text editor or integrated development environment.
-3. Modify the code to meet the project parameters outlined above.
-4. Host the dashboard on a free static page hosting service like GitHub Pages or any other hosting platform of your choice.
-5. Test the dashboard to ensure all features are working as expected.
-6. Update the README file with the link to the deployed version of the dashboard.
-7. Submit the project for review.
 
-Enjoy exploring the Belly Button Biodiversity dataset using the interactive D3 Dashboard!
