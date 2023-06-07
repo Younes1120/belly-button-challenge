@@ -4,7 +4,7 @@ This project is an interactive dashboard that allows users to explore the Belly 
 
 ## Link
 
-Access the deployed dashboard [here](link_here).
+Access the deployed dashboard [here](Deployed dashboard.png).
 
 ## Overview
 
