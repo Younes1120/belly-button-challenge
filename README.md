@@ -4,8 +4,7 @@ This project is an interactive dashboard that allows users to explore the Belly 
 
 ## Link
 
-([Deployed dashboard.png](https://github.com/Younes1120/belly-button-challenge/blob/main/Deployed%20dashboard.png)).
-
+([Deployed dashboard.png](https://younes1120.github.io/belly-button-challenge/))
 ## Overview
 
 The D3 Dashboard (Belly Button Biodiversity) challenge demonstrates the use of D3.js, JavaScript, HTML, and Plotly to create an interactive data visualization dashboard. The dashboard features the following components:
